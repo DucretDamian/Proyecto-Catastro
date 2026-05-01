@@ -1,4 +1,4 @@
-# Sistema de Gestión Catastral (Catastro22)
+# Sistema de Gestión Catastro
 
 Este proyecto es una aplicación de consola robusta desarrollada en **Pascal**, diseñada para la administración y control de contribuyentes y sus terrenos correspondientes. El sistema permite gestionar de manera eficiente el registro de propiedades, el cálculo automático de avalúos y la generación de estadísticas detalladas.
 
