@@ -49,3 +49,6 @@ Necesitarás tener instalado el compilador **Free Pascal (FPC)**.
 Clona el repositorio y compila el programa principal desde la terminal:
 ```bash
 fpc catastro22.pas
+```
+
+## Este proyecto fue subido a este repositorio una vez finalizado el mismo.
