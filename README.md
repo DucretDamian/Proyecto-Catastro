@@ -50,5 +50,9 @@ Clona el repositorio y compila el programa principal desde la terminal:
 ```bash
 fpc catastro22.pas
 ```
+y luego ejecutar el archivo:
+```
+catastro22.exe
+```
 
 ## Este proyecto fue subido a este repositorio una vez finalizado el mismo.
